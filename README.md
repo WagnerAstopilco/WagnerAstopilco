@@ -49,16 +49,24 @@ Especializado en desarrollo de aplicaciones web modernas, APIs REST, sistemas ad
 
 ---
 
-## 🚀 Tecnologías conocidas
+## 🚀 Principales tecnologías conocidas
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,py,cs,js,html,css,laravel,vue,spring,dotnet,bootstrap,tailwind&perline=14" />
+    <img src="https://skillicons.dev/icons?i=laravel,vue,mysql&perline=14" />
+  </a>
+</p>
+
+## 🚀 Otras tecnologías conocidas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,py,cs,js,html,css,,spring,dotnet,bootstrap,tailwind&perline=14" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,vscode,visualstudio,androidstudio,eclipse,github,git,postman&perline=14" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,firebase,vscode,visualstudio,androidstudio,eclipse,github,git,postman&perline=14" />
   </a>
 </p>
 
