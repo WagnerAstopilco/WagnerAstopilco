@@ -103,17 +103,17 @@ Especializado en desarrollo de aplicaciones web modernas, APIs REST, sistemas ad
 
 ## 📌 Proyectos destacados
 ### Web 🌐
-<div id="mobile_proyectos"> 
+<div id="web_proyectos"> 
 <table align="center" >
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="" title="Go to Source">
-        <img align="center" width=100% src=""   alt="SCREENSHOT" /></a>
+     <a href="https://monitoringdashboard.wagner-asto-30.workers.dev/demo" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/WagnerAstopilco/portfolio/main/assets/monitoringdashboard.png"   alt="monitoring dashboard" /></a>
     </p>
     <p align="center">
-      <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"  alt="Link"  /></a>
-      <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a>
+      <a href="https://monitoringdashboard.wagner-asto-30.workers.dev/demo" target="blank"><img align="center" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"  alt="Link"  /></a>
+      <a href="https://github.com/WagnerAstopilco/MonitoringDashboard" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a>
     </p>       
   </td>
 
