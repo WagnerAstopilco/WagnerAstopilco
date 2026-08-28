@@ -232,10 +232,7 @@ Especializado en desarrollo de aplicaciones web modernas, APIs REST, sistemas ad
 <table align="center">
 <tr border="none">
 <td width="60%" align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=WagnerAstopilco&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D
-    alt="GitHub Streak Stats"
-  />
+  <img title="streak-stats" alt="Mark streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=WagnerAstopilco&theme=tokyonight" />
 </td>
 
 <td width="40%" align="center">
